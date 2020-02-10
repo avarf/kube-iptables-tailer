@@ -1,5 +1,11 @@
 # kube-iptables-tailer
 
+### Helm chart
+The helm chart of this repo can be found at https://github.com/honestica/lifen-charts/blob/master/kube-iptables-tailer/README.md
+
+
+### Original README
+
 [![Project Status](https://opensource.box.com/badges/active.svg)](https://opensource.box.com/badges)
 [![Build Status](https://travis-ci.com/box/kube-iptables-tailer.svg?token=xQMR2mqCqLKhWA2AL639&branch=master)](https://travis-ci.com/box/kube-iptables-tailer)
 
